@@ -1,0 +1,3 @@
+def Dog
+  Dog = ""
+end
