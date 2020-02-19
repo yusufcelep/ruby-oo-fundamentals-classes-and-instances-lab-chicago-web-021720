@@ -1,3 +1,3 @@
-def Dog
-  Dog = ""
+class Dog
+  
 end
